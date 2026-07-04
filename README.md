@@ -1,7 +1,18 @@
-# freetdee.com
+# freetdee
 
-Free TDEE Calculator - Built with AI
+Free TDEE calorie calculator. Mifflin-St Jeor equation.
 
-🌐 **[freetdee.com](https://freetdee.com)** - Free online tool. No sign-up required.
+## Try It
 
-Built with AI · 0 coding experience · Day 122 #buildinpublic
+[https://freetdee.com](https://freetdee.com)
+
+## Features
+- 100% browser — no uploads
+- Completely free — no sign-up, no ads
+- Privacy-first — data stays on your device
+
+## Tech
+Next.js · Cloudflare Pages
+
+---
+Part of [Gavin Builds](https://github.com/Gavin1901) free tools.
